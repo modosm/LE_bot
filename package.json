@@ -1,0 +1,23 @@
+{
+  "name": "facebookbot",
+  "version": "1.0.0",
+  "description": "LE Facebook Messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modosm/LE_bot.git"
+  },
+  "author": "Mody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modosm/LE_bot/issues"
+  },
+  "homepage": "https://github.com/modosm/LE_bot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
